@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name         [FLY] Freelance System: Core
+// @name         [FLY] Freelance System: Core 5.3
 // @namespace    http://tampermonkey.net/
 // @version      0.5.3
 // @description  try to take over the world!
 // @author       SLY
 // @match        https://based.staratlas.com/
 // @require      https://unpkg.com/@solana/web3.js@latest/lib/index.iife.min.js
-// @require      https://raw.githubusercontent.com/ImGroovin/SAGE-Lab-Assistant/main/anchor-browserified.js
-// @require      https://raw.githubusercontent.com/ImGroovin/SAGE-Lab-Assistant/main/buffer-browserified.js
-// @require      https://raw.githubusercontent.com/ImGroovin/SAGE-Lab-Assistant/main/bs58-browserified.js
+// @require      https://raw.githubusercontent.com/Torinder/SLY-6.15/main/anchor-browserified.js
+// @require      https://raw.githubusercontent.com/Torinder/SLY-6.15/main/buffer-browserified.js
+// @require      https://raw.githubusercontent.com/Torinder/SLY-6.15/main/bs58-browserified.js
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=staratlas.com
 // @grant        GM_setValue
 // @grant        GM_getValue
